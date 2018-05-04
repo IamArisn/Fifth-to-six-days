@@ -1,0 +1,23 @@
+body{
+  height:100%;
+}
+
+#jianli{
+  background-color:#6495ED;
+  color:white;
+  width:150px;
+  float:left;
+  text-align:center;
+  line-height:3400%;
+  font-size:22px;
+}
+
+#qita{
+  clean:both;
+  margin:0 0 0 160px;
+  color:#388E8E;
+}
+
+p{
+  margin:0 0 0 20px;
+}

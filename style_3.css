@@ -1,0 +1,85 @@
+#jianli{
+  background-color:#4D4D4D;
+  color:white;
+  padding:4px 20px;
+  font-size:12px;
+}
+#zikuai1{
+  background-color:#9E9E9E;
+  color:white;
+  width:150px;
+  float:left;
+  clean:both;
+  text-align:center;
+  line-height:185%;
+  font-size:22px;
+  margin:1px 0px 0px 0px;
+}
+#neirong1{
+  height:130px;
+  padding:3px 20px 0px 150px;
+}
+#zikuai2{
+  background-color:#9E9E9E;
+  color:white;
+  width:150px;
+  float:left;
+  clean:both;
+  text-align:center;
+  line-height:210%;
+  font-size:22px;
+  margin:-36px 0px 0px 0px;
+}
+
+#neirong2{
+  height:130px;
+  margin:-30px 20px 0px 150px;
+}
+
+#zikuai3{
+  background-color:#9E9E9E;
+  color:white;
+  width:150px;
+  float:left;
+  clean:both;
+  text-align:center;
+  line-height:753%;
+  font-size:22px;
+  margin:-51px 0px 0px 0px;
+}
+#neirong3{
+  height:160px;
+  margin:-23px 20px 15px 180px;
+}
+
+#zikuai4{
+  background-color:#9E9E9E;
+  color:white;
+  width:150px;
+  float:left;
+  clean:both;
+  text-align:center;
+  line-height:750%;
+  font-size:22px;
+  margin:-8px 0px 0px 0px;
+}
+#neirong4{
+  height:130px;
+  padding:15px 20px 57px 180px;
+}
+
+#zikuai5{
+  background-color:#9E9E9E;
+  color:white;
+  width:150px;
+  float:left;
+  clean:both;
+  text-align:center;
+  line-height:300%;
+  font-size:22px;
+  margin:-8px 0px 0px 0px;
+}
+#neirong5{
+  height:130px;
+  margin:30px 20px -48px 160px;
+}
